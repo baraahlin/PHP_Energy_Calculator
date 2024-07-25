@@ -3,9 +3,9 @@
 A PHP-based web application to calculate power, energy, and total charge based on the current rate.
 
 ## Usage 
-Open the file and host it on a local PHP server.
-Fill in the required feilds in the form to canculate the power, energy and total charge.
-Click on the "Calculate" button to display the results.
+1. Open the file and host it on a local PHP server.
+2. Fill in the required feilds in the form to canculate the power, energy and total charge.
+3. Click on the "Calculate" button to display the results.
 
 Example input:
 - Voltage: 19V
