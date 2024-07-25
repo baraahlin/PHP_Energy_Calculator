@@ -2,7 +2,7 @@
 
 A PHP-based web application to calculate power, energy, and total charge based on the current rate.
 
-## usage 
+## Usage 
 Open the file and host it on a local PHP server.
 Fill in the required feilds in the form to canculate the power, energy and total charge.
 Click on the "Calculate" button to display the results.
