@@ -2,7 +2,7 @@
 
 A PHP-based web application to calculate power, energy, and total charge based on the current rate.
 
-##usage 
+## usage 
 Open the file and host it on a local PHP server.
 Fill in the required feilds in the form to canculate the power, energy and total charge.
 Click on the "Calculate" button to display the results.
@@ -12,7 +12,7 @@ Example input:
 - Current: 3.24A
 - Rate: 21.80sen/kwh
 
-##Features
+## Features
 
 - Calculate power based on voltage and current.
 - Calculate energy consumption over time.
